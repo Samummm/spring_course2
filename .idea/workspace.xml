@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d2896d-5437-4991-922b-9378db080255" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test3.java" afterDir="false" />
+    <list default="true" id="14d2896d-5437-4991-922b-9378db080255" name="Changes" comment="IC and DI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,8 +121,16 @@
       <workItem from="1673292186772" duration="2474000" />
       <workItem from="1673294679721" duration="109000" />
       <workItem from="1673294818562" duration="673000" />
-      <workItem from="1673333356674" duration="4188000" />
+      <workItem from="1673333356674" duration="4829000" />
     </task>
+    <task id="LOCAL-00001" summary="IC and DI">
+      <created>1673352093229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673352093229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="IC and DI" />
+    <option name="LAST_COMMIT_MESSAGE" value="IC and DI" />
   </component>
 </project>
