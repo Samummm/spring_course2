@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d2896d-5437-4991-922b-9378db080255" name="Changes" comment="IC and DI">
+    <list default="true" id="14d2896d-5437-4991-922b-9378db080255" name="Changes" comment="IC and DI end">
+      <change afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +125,8 @@
       <workItem from="1673292186772" duration="2474000" />
       <workItem from="1673294679721" duration="109000" />
       <workItem from="1673294818562" duration="673000" />
-      <workItem from="1673333356674" duration="4829000" />
+      <workItem from="1673333356674" duration="4862000" />
+      <workItem from="1673422727321" duration="3982000" />
     </task>
     <task id="LOCAL-00001" summary="IC and DI">
       <created>1673352093229</created>
@@ -130,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673352093229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IC and DI end">
+      <created>1673359902842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673359902842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="IC and DI" />
-    <option name="LAST_COMMIT_MESSAGE" value="IC and DI" />
+    <MESSAGE value="IC and DI end" />
+    <option name="LAST_COMMIT_MESSAGE" value="IC and DI end" />
   </component>
 </project>
