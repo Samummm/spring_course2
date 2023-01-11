@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d2896d-5437-4991-922b-9378db080255" name="Changes" comment="IC and DI end">
-      <change afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
+    <list default="true" id="14d2896d-5437-4991-922b-9378db080255" name="Changes" comment="IC and DI -- properties">
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Temp/JavaRushPractice/testtask/template/spring_course2/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;9b53fb1ff443d8dbf0d085479fc14677&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/spring_course2/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "9b53fb1ff443d8dbf0d085479fc14677",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\spring_course2\resources" />
       <recent name="C:\Temp\JavaRushPractice\testtask\template\spring_course2\resources" />
       <recent name="C:\Temp\JavaRushPractice\testtask\template\spring_course2\src\main\java\org\example" />
     </key>
@@ -126,7 +128,7 @@
       <workItem from="1673294679721" duration="109000" />
       <workItem from="1673294818562" duration="673000" />
       <workItem from="1673333356674" duration="4862000" />
-      <workItem from="1673422727321" duration="3982000" />
+      <workItem from="1673422727321" duration="6514000" />
     </task>
     <task id="LOCAL-00001" summary="IC and DI">
       <created>1673352093229</created>
@@ -142,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673359902842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="IC and DI -- properties">
+      <created>1673431227878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673431227878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +161,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="IC and DI" />
     <MESSAGE value="IC and DI end" />
-    <option name="LAST_COMMIT_MESSAGE" value="IC and DI end" />
+    <MESSAGE value="IC and DI (properties)" />
+    <MESSAGE value="IC and DI -- properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="IC and DI -- properties" />
   </component>
 </project>
